@@ -2,7 +2,7 @@
 
 /*
   Plugin Name: Robots Meta Settings
-  Plugin URI: https://ticolibre.com
+  Plugin URI: https://wpsurfer.com/meta-robots-settings-without-plugin-wordpress/
   Description: Add Robots Meta Settings based on the info provided on a custom field.  Robots Meta Tags based on the SEO Framework plugin.
   Version: 1.0
   Author: TicoLibre
